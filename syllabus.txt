@@ -1,0 +1,6 @@
+>> variables
+>> for loop
+>> conditionals
+>> array
+>> objects
+>> function
